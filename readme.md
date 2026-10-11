@@ -88,3 +88,9 @@ O desafio **Halloween 2026** consiste em praticar Spec-Driven Development de pon
 
 ### Veja meu progresso no desafio
 O progresso está documentado neste repositório e nos quatro artefatos em `specs/`.
+
+## Evidência SonarQube
+
+Status: `NOT_PROVEN/BLOCKED`.
+
+O dashboard local (`http://localhost:9001/dashboard?id=balta-desafio-halloween-2026-spec-driven-01`) respondeu, mas redirecionou a sessão Playwright existente para `/sessions/new` e exibiu o formulário de login. Não havia sessão autenticada disponível. Nenhum token, credencial ou cookie foi usado, registrado ou armazenado; por isso, nenhum PNG foi produzido.
